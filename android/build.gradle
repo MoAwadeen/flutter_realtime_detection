@@ -37,7 +37,7 @@ subprojects {
 }
 
 wrapper {
-    gradleVersion = '7.6'
+    gradleVersion = '8.5'
 }
 
 task clean(type: Delete) {
